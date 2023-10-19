@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <ui:Label text="Controls" display-tooltip-when-elided="true" style="align-items: auto; opacity: 1;" />
+    <ui:SliderInt picking-mode="Ignore" label="CurIndex" value="1" high-value="10" binding-path="curIndex" />
+</ui:UXML>
