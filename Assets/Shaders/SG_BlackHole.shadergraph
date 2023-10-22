@@ -8540,7 +8540,7 @@
     "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
     "m_ObjectId": "e07cd2893ac24e22a741192420f3c358",
     "m_Title": "NOTE!",
-    "m_Content": "This shadergraph doesn't work as you see if the video, just FYI. Since there isn't a way to configure the shader into the right light mode. (The scene texture will not be ready when this renders).\n\nSo in my actual implementation, I copy the generated shader code from this and change the light mode in the actual code.\n\nThe S_BlackHole asset is the actual shader used in the project, and you can see the custom change I have to make in the \n\n\"LightMode\" = \"UseColorTexture\"\n\nline",
+    "m_Content": "This shadergraph doesn't work as you see in the video, just FYI. Since there isn't a way to configure the shader into the right light mode. (The scene texture will not be ready when this renders).\n\nSo in my actual implementation, I copy the generated shader code from this and change the light mode in the actual code.\n\nThe S_BlackHole asset is the actual shader used in the project, and you can see the custom change I have to make in the \n\n\"LightMode\" = \"UseColorTexture\"\n\nline",
     "m_TextSize": 0,
     "m_Theme": 0,
     "m_Position": {
